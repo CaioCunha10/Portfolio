@@ -1,0 +1,11 @@
+{
+  "email": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "secure": false,
+      "auth": {
+          "user": "caiocunhads10@gmail.com",
+          "pass": "75286113b"   
+      }
+  }
+}
